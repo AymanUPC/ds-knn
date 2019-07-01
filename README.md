@@ -1,4 +1,4 @@
-# ds-knn
+# DS-kNN
 The OpenML clustering ground-truth for testing the DS-kNN algorithm. It includes a sample of 203 annotated datasets with their topic-wise groups.
 
 ## DS-kNN Clustering of Datasets Using Proximity Mining (Keeping the Data Lake in Form) (OpenML implementation)
