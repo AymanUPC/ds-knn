@@ -7,7 +7,7 @@ The OpenML clustering ground-truth for testing the DS-kNN algorithm. It includes
 This page is dedicated for the DS-kNN Clustering of Datasets Using Proximity Mining project by the [DTIM Research Group](http://www.essi.upc.edu/dtim) of the ESSI department, UPC. We provide here the main benchmark datasets and sources for experimental evaluation of techniques for dataset clustering by topic-wise groups from [OpenML](https://www.openml.org) data.
 
 ## Description
-* **DS-knn_203ds_OpenML_datasets.csv:** Stores the information about the 203 datasets we retrieved from OpenML and which we annotated with their general subject-areas and more specific entity topics by examining their textual description from OpenML. Each dataset has its annotated subject and entity in the *"Subject_Cluster"* and *"Entity_Cluster respectively"*. The rest of the columns contain the *content metadata we collect about the overall statistics* of the attributes of the dataset and data stored in them. Those are described in our paper.
+* **DS-knn_203ds_OpenML_datasets.csv:** Stores the information about the 203 datasets we retrieved from OpenML and which we annotated with their general subject-areas and more specific entity topics by examining their textual description from OpenML. Each dataset has its annotated subject and entity in the *"Subject_Cluster"* and *"Entity_Cluster"* respectively. The rest of the columns contain the *content metadata we collect about the overall statistics* of the attributes of the dataset and data stored in them. Those are described in our paper.
 
 * **DS-knn_203ds_OpenML_attributes.csv:** Stores the information about the attributes from the 203 datasets sample we retrieved from OpenML. This includes the attribute names and the attribute types.
 
