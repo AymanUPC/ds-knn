@@ -1,5 +1,5 @@
 # DS-kNN
-The OpenML clustering ground-truth for testing the DS-kNN cateogrization algorithm. It includes a sample of 203 annotated datasets with their topic-wise groups as visualised in the *proximity graph* in the image below. It shows the datasets from the sample as the nodes with their labelled names and the similarity relationships between datasets as edges with their annotated similarity scores in the range of [0,1]. Datasets in the same category cluster are shown in the same colour.
+The OpenML ground-truth for testing the DS-kNN cateogrization algorithm. It includes a sample of 203 annotated datasets with their topic-wise groups as visualised in the *proximity graph* in the image below. It shows the datasets from the sample as the nodes with their labelled names and the similarity relationships between datasets as edges with their annotated similarity scores in the range of [0,1]. Datasets in the same category cluster are shown in the same colour.
 
 ![OpenML Data Lake Proximity Graph](/OpenML_Data_Lake_Proximity_Graph.png?raw=true "Output DS-kNN proximity graph")
 
