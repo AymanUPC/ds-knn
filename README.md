@@ -23,5 +23,5 @@ To retrieve the original datasets from OpenML using the APIs provided by them an
 ## Acknowledgements
 We are sincerely thankful to all the annotators who have validated and collaborated in creating the ground-truth datasets for the experiments. We thank the collaborators from the school of Pharmacy for helping us with the annotation of the datasets.
 
-
-
+## Reference
+For more details about the datasets in this project, how they were collected, and for a detailed description of their usage, please see the main publication resulting from this project: _"Alserafi, A., Abelló, A., Romero, O., & Calders, T. (2019, October). **DS-kNN Datasets Categorization Using Proximity Mining.** In International Conference on Model and Data Engineering (pp. 35-49). Springer, Cham."_.
