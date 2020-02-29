@@ -13,7 +13,7 @@ This page is dedicated for the DS-kNN Categorization of Datasets Using Proximity
 
 * **DS-knn_118ds_OpenML_datasets.csv:** Stores the information about the 118 datasets we retrieved from OpenML and their annotated entity topics.
 
-* **DS-knn_203ds_OpenML_attributes.csv:** Stores the information about the attributes from the 118 datasets sample we retrieved from OpenML.
+* **DS-knn_118ds_OpenML_attributes.csv:** Stores the information about the attributes from the 118 datasets sample we retrieved from OpenML.
 
 To retrieve the original datasets from OpenML using the APIs provided by them and the dataset IDs from our CSV files, please refer to the [OpenML API guide](https://openml.github.io/OpenML/Java-guide/).
 
